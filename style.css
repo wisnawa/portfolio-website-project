@@ -5,11 +5,14 @@ a.nav-link {
   color: #fcbf49;
 }
 .jumbotron {
-  padding-top: 2rem;
+  padding-top: 6rem;
   background-color: #fcbf49;
 }
 .jumbotron img {
   width: 20%;
+}
+section {
+  padding-top: 5rem;
 }
 .about {
   background-color: #f77f00;
@@ -36,5 +39,5 @@ a.nav-link {
   color: #d62828;
 }
 footer {
-  background-color: #fcbf49;
+  background-color: #d62828;
 }
