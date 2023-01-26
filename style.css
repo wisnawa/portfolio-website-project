@@ -1,6 +1,3 @@
-body {
-  min-height: 2000px;
-}
 .navbar {
   background-color: #d62828;
 }
@@ -21,5 +18,23 @@ a.nav-link {
   text-align: justify;
 }
 .projects {
+  background-color: #fcbf49;
+}
+.contact {
+  background-color: #f77f00;
+  padding-top: 150px;
+}
+.contact button.btn {
+  /* border-color: #d62828; */
+  background-color: #d62828;
+  border: 7px solid #d62828;
+  color: aliceblue;
+}
+.contact button.btn:hover {
+  border: 7px solid #fcbf49;
+  background-color: #fcbf49;
+  color: #d62828;
+}
+footer {
   background-color: #fcbf49;
 }
