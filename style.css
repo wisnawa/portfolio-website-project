@@ -4,3 +4,7 @@
 a.nav-link {
   color: #fcbf49;
 }
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #fcbf49;
+}
