@@ -5,6 +5,9 @@ a.nav-link {
   color: #fcbf49;
 }
 .jumbotron {
-  padding: 2rem 1rem;
+  padding-top: 2rem;
   background-color: #fcbf49;
+}
+.jumbotron img {
+  width: 20%;
 }
